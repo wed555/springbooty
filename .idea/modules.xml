@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/javatrains.iml" filepath="$PROJECT_DIR$/.idea/javatrains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflectiondemo/reflectiondemo.iml" filepath="$PROJECT_DIR$/reflectiondemo/reflectiondemo.iml" />
+    </modules>
+  </component>
+</project>
